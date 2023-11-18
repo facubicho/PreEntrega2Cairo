@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "nombre": "Nike Air Max 270",
+      "descripcion": "Zapatillas deportivas con tecnología de amortiguación",
+      "precio": 109999.90,
+      "cantidad": 50,
+      "img":"/img/nike.jpg",
+      "categoria":"Nike",
+      "talle": "M"
+    },
+    {
+      "id": 2,
+      "nombre": "Adidas Ultraboost",
+      "descripcion": "Zapatillas para running con suela elástica y cómoda",
+      "precio": 119999.90,
+      "cantidad": 30,
+      "img":"/img/adidas.jpg",
+      "categoria":"Adidas",
+      "talle": "L"
+    },
+    {
+      "id": 3,
+      "nombre": "Puma RS-X Reinvention",
+      "descripcion": "Zapatillas casuales con diseño retro y colores llamativos",
+      "precio": 69999.90,
+      "cantidad": 20,
+      "img":"/img/puma.jpg",
+      "categoria":"Puma",
+      "talle": "S"
+    },
+    {
+      "id": 4,
+      "nombre": "New Balance 574",
+      "descripcion": "Zapatillas clásicas para uso diario con estilo atemporal",
+      "precio": 59999.90,
+      "cantidad": 40,
+      "img":"/img/new-balance.jpg",
+      "categoria":"New Balance",
+      "talle": "XL"
+    },
+    {
+      "id": 5,
+      "nombre": "Reebok Classic Leather",
+      "descripcion": "Zapatillas icónicas con parte superior de cuero suave",
+      "precio": 74999.90,
+      "cantidad": 15,
+      "img":"/img/rebook.jpg",
+      "categoria":"Reebok",
+      "talle": "M"
+    }
+  ]
+  
